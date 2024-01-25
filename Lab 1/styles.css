@@ -1,0 +1,13 @@
+
+
+body { background: rgb(16,129,133) }
+
+p { background: rgb(14, 101, 105)}
+
+img {border-style: solid; border-width: thick; 
+    border-color: rgb(14, 101, 105); margin-left: 5em;}
+.my-class{
+    background-color: beige;
+    color:brown;
+    
+}
