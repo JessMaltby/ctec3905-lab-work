@@ -1,13 +1,40 @@
 
 
-body { background: rgb(16,129,133) }
+body { background-color:rgb(255, 226, 194)  }
 
-p { background: rgb(14, 101, 105)}
+p { background-color:beige; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
 
 img {border-style: solid; border-width: thick; 
-    border-color: rgb(14, 101, 105); margin-left: 5em;}
+    border-color:#deb887; margin-left: 5em;}
 .my-class{
     background-color: beige;
-    color:brown;
+    color:#b7860b
     
 }
+
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#b8860b;
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; color: darkmagenta; text-align: center; text-decoration-thickness: 6px;
+    border-radius: 10em; border-color: darkgoldenrod; border-style: solid;
+    background-color: goldenrod;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color:darkorchid; text-decoration-thickness: 3px ;
+}
+
+button {
+    background-color: darkgoldenrod;
+    color:bisque;
+    margin-left: 30em;
+    
+}
+footer {
+    color:darkgoldenrod;
+    font-size: x-small;
+    text-align:right
+}
+

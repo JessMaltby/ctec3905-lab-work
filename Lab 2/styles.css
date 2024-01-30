@@ -1,0 +1,48 @@
+
+
+nav {
+    display: flex;
+    background-color: rgb(181, 181, 181);
+}
+nav a{
+    background-color: rgb(91, 134, 134);
+    color: beige;
+    padding: 6px 7px;
+    margin: 5px 6px;
+
+    transition: background-color 0.7s;
+    transition: color 0.7s;
+}
+
+nav a:hover {
+    background-color: beige;
+    color: rgb(91, 134, 134);
+}
+
+h1{
+    color: rgb(48, 91, 93);
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: xx-large;
+    font-weight:bolder;
+}
+
+h2{
+    color: cadetblue;
+    background-color: rgb(236, 217, 191);
+    text-align: center;
+}
+
+p{
+    color: darkcyan;
+    background-color: antiquewhite;
+}
+
+body{
+    background-color: rgb(121, 129, 127);
+
+}
+footer{
+    font-size: x-small;
+    color: aliceblue;
+}
